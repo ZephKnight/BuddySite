@@ -1,5 +1,7 @@
 # BuddyWebsite
 
+View here: https://zephknight.github.io/BuddySite/
+
 ## How to Build a Website
 
 We are using these tools:
