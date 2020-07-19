@@ -6,13 +6,14 @@ View here: https://zephknight.github.io/BuddySite/
 
 We are using these tools:
 
-* https://shanebdavis.github.io/buddy-website/
-* https://getbootstrap.com/
+* Hosting: [GitHub Pages](https://pages.github.com/)
+* CSS/HTML toolkit: [BootStrap](https://getbootstrap.com/)
 
-Tools:
+Optional Tools for working Offline:
 
-* Editor: https://code.visualstudio.com/
-* Git: https://git-scm.com/download/win
+* Editor: [VSCode](https://code.visualstudio.com/)
+  * [LiveServer for VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* SourceControl: [Git](https://git-scm.com/download/win)
 
 Resources
 
